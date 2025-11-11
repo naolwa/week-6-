@@ -104,4 +104,4 @@ Design a **Smart Agriculture Simulation System** that combines IoT sensors and A
 
 ---
 
-Would you like me to **generate a downloadable README.md file** (so you can upload it to your GitHub repository)?
+
