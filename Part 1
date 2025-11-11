@@ -1,0 +1,44 @@
+
+# AI and Healthcare: Essays
+
+This repository contains written essays exploring trends and impacts of AI, specifically edge AI, quantum AI, and human-AI collaboration in the healthcare sector.
+
+***
+
+## Table of Contents
+
+- [Edge AI Trends](#edge-ai-trends)
+- [Classical AI vs Quantum AI](#classical-ai-vs-quantum-ai)
+- [Human-AI Collaboration in Healthcare](#human-ai-collaboration-in-healthcare)
+
+***
+
+### Edge AI Trends
+
+Edge AI can greatly enhance advanced AI capabilities in various sectors. For example, AI models embedded directly within devices reduce the reliance on cloud-based storage and computation. This local processing reduces the risk and impact of cybersecurity breaches, such as unauthorized access to medical data. An additional benefit is reduced latency, as critical decisions—like a smart car stopping to avoid an obstacle—are made in real time without needing cloud access. This real-time decision-making capability is transformative for safety-critical applications.
+
+***
+
+### Classical AI vs Quantum AI
+
+Classical AI refers to traditional AI systems that do not utilize quantum computing power. In contrast, Quantum AI leverages quantum computing and optimization techniques such as quantum superposition and quantum interference. This allows Quantum AI to explore multiple solutions simultaneously, making it well-suited for applications with massive data and complex constraints, such as:
+
+- **Pharmaceuticals and Drug Discovery**: Quantum AI enables efficient simulation and optimization tasks for finding new drug candidates.
+- **Finance**: Used for risk modeling and analytics where large datasets and complex calculations are involved.
+- **Genetic Algorithms**: Quantum AI can accelerate the search for optimal solutions, outperforming classical approaches.
+- **Social Media & E-commerce**: Quantum AI enhances recommendations and forecasting for individual users, well beyond classical systems. However, traditional AI approaches require huge data and deep learning models and may produce unchecked outputs ("black hole" answers) if not carefully managed.
+
+***
+
+### Human-AI Collaboration in Healthcare
+
+Human-AI collaboration has significantly impacted research and healthcare. Key examples include:
+
+- **Radiology**: AI assists in diagnostic imaging, efficiently detecting abnormalities in X-rays or scans—sometimes exceeding human performance, especially when fatigue is a factor. Rather than replacing radiologists, AI acts as a decision support tool, highlighting issues that might be missed.
+- **Nursing and Patient Prediction**: AI supports predictive analysis to identify patients at risk of deterioration and helps with clinical decision-making.
+- **Documentation and Automation**: Automated chatbots and voice-to-text tools streamline documentation, improve workflow efficiency, and provide patients with routine health information.
+
+
+
+[1](h0ttps://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/26835544/eb75e826-75a9-4229-b986-1698091ff01c/selected_image_5981863129657129314.jpg)
+[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/26835544/7299e7d7-b4cd-4bee-b700-19bd838d43cc/selected_image_6534196304278996092.jpg)
